@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_tour_24"
+        android:title="Start Your Tour"/>
+    <item
+        android:id="@+id/notes"
+        android:icon="@drawable/ic_notes"
+        android:title="Notes"/>
+
+    <item
+        android:id="@+id/weather"
+        android:icon="@drawable/ic_could"
+        android:title="weather"/>
+
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/ic_help"
+        android:title="Help"/>
+
+</menu>
